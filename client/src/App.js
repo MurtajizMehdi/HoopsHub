@@ -8,26 +8,29 @@ import { Link } from 'react-router-dom'
 
 
 const App = () => {
-  
-  const descr = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
 
   const posts = [
       {'id':'1', 
-      'title': 'Cartwheel in Chelsea 🤸🏽‍♀️',
-      'author':'Harvey Milian', 
-      'description': descr},
+      'title': 'Ending the Goat Debate 🐐',
+      'author':'Murtajiz Mehdi', 
+      'description': 'No one seems to talk about how much help MJ had. With Pippen taking a massive paycut in his lowball contract offer,' + 
+      ' the Chicago Bulls were able to build around MJ much better than a lot of other teams were for their respective franchise player.' + 
+      ' Thus, resulting in MJ having a much better squad around him compared to the rest of the league.'},
+
       {'id':'2', 
-      'title': 'Love Lock in Paris 🔒',
-      'author':'Beauford Delaney', 
-      'description':descr},
+      'title': 'Who Wins the Chip? 🏆',
+      'author':'Murtajiz Mehdi', 
+      'description': ''},
+
       {'id':'3', 
-      'title': 'Wear Pink on Fridays 🎀',
-      'author':'Onika Tonya', 
-      'description':descr},
+      'title': 'The Issue with NBA Media 🤐',
+      'author':'Murtajiz Mehdi', 
+      'description': ''},
+
       {'id':'4', 
-      'title': 'Adopt a Dog 🐶',
-      'author':'Denise Michelle', 
-      'description':descr},
+      'title': 'Who is League MVP? 👑',
+      'author':'Murtajiz Mehdi', 
+      'description': ''},
   ]
  
 
