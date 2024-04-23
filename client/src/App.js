@@ -20,17 +20,23 @@ const App = () => {
       {'id':'2', 
       'title': 'Who Wins the Chip? 🏆',
       'author':'Murtajiz Mehdi', 
-      'description': ''},
+      'description': "As a Miami Heat fan, it's hard to root for any team BUT them. However, given the metrics of this season, I would" + 
+      " not be surprised at all if they don't end up winning. Teams like the Nuggets, Celtics, and Timberwolves look to be in phenomenal" + 
+      " standing. Not to mention the rest of the Eastern conference, stacked with teams like the Cavaliers and Knicks."},
 
       {'id':'3', 
       'title': 'The Issue with NBA Media 🤐',
       'author':'Murtajiz Mehdi', 
-      'description': ''},
+      'description': 'People like Stephen A. Smith and Skip Bayless. People that care too much about ratings or views and purposefully' +
+      ' spread ludicrous beliefs or "takes" in order to get attention. Analysts should be more like JJ Reddick, in which their main' +
+      ' objective should be to talk about the GAME.'},
 
       {'id':'4', 
       'title': 'Who is League MVP? 👑',
       'author':'Murtajiz Mehdi', 
-      'description': ''},
+      'description': 'I personally am a fan of Nikola Jokic, simply because of his play style. He puts the team first, and understands what' +
+      " it takes to win. I believe he is Denver's biggest asset, and without him, perhaps his team would not be where it is today." + 
+    " I believe he will get his third MVP award this season."},
   ]
  
 
