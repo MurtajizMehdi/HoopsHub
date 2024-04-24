@@ -44,15 +44,12 @@
     cursor: pointer;
     transition: border-color 0.25s;
 }
-.betButton:hover {
-    border-color: #646cff;
-  }
 
 .moreButton {
     width: 30px;
     float:right;
-
 }
+
 .moreButton:hover {
     cursor: pointer;
 }
