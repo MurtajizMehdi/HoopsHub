@@ -6,7 +6,6 @@ import CreatePost from './pages/CreatePost'
 import EditPost from './pages/EditPost'
 import { Link } from 'react-router-dom'
 
-
 const App = () => {
 
   const posts = [
