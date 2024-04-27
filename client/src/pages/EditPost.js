@@ -20,6 +20,18 @@ const EditPost = ({data}) => {
         window.location = "/";
     }
 
+    // UPDATE post
+    const deletePost = async (event) => {
+        event.preventDefault();
+    
+        await supabase
+        .from('Posts')
+        .delete()
+        .eq('id', id); 
+    
+        window.location = "http://localhost:3000/";
+    }
+
     // console.log(id);
 
     const handleChange = (event) => {
@@ -47,7 +59,7 @@ const EditPost = ({data}) => {
                 <input type="text" id="description" name="description" value={post.description} onChange={handleChange} /><br />
                 <br/>
                 <input type="submit" value="Submit" onClick={updatePost}/>
-                <button className="deleteButton">Delete</button>
+                <button className="deleteButton" onClick={deletePost}>Delete</button>
             </form>
         </div>
     )
