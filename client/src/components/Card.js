@@ -23,12 +23,12 @@ const Card = (props) =>  {
   };
 
   const [count2, setCount2] = useState(0);
-  const [clicked, setClicked] = useState(false); // Add state to track if button is clicked
+  const [clicked, setClicked] = useState(false);
 
   const updateCount2 = () => {
     if (!clicked) {
       setCount2((count2) => count2 + 1);
-      setClicked(true); // Set clicked to true after the first click
+      setClicked(true);
     }
   };
 
@@ -38,8 +38,8 @@ const Card = (props) =>  {
           <h2 className="title">{props.title}</h2>
           <h3 className="author">{"by " + props.author}</h3>
           <p className="description">{props.description}</p>
-          <button className="betButton" onClick={updateCount} >Upvote ⬆ {count}</button>
-          <button className="betButton" onClick={updateCount2} >Downvote ⬇ {count2}</button>
+          <button className="upvote-button" onClick={updateCount} >Upvote ⬆ {count}</button>
+          <button className="downvote-button" onClick={updateCount2} >Downvote ⬇ {count2}</button>
       </div>
   );
 };
