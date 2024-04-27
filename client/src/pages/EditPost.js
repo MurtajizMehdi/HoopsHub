@@ -8,6 +8,8 @@ const EditPost = ({data}) => {
     const {id} = useParams();
     const [post, setPost] = useState({id: null, title: "", author: "", description: ""});
 
+    console.log(id);
+
     const handleChange = (event) => {
         const {name, value} = event.target;
         setPost( (prev) => {
