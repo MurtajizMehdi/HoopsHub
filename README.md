@@ -50,6 +50,10 @@ Here's a walkthrough of implemented user stories:
 ![HoopsHub-edit-form](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/3f234a5c-7c0a-4332-8fe7-427182ce157f)
 
 
+### Delete Form
+![HoopsHub-delete-form](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/f18535d5-501f-4b12-9d3e-d1c84002d78f)
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe & Ezgif 
 <!-- Recommended tools:
@@ -59,7 +63,6 @@ GIF created with Adobe & Ezgif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
