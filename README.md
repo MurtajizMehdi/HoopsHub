@@ -46,6 +46,9 @@ Here's a walkthrough of implemented user stories:
 ### Create Form
 ![HoopsHub-create-form](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/fd245cb9-7a04-4cae-8c05-e0983e626a3c)
 
+### Edit Form
+![HoopsHub-edit-form](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/3f234a5c-7c0a-4332-8fe7-427182ce157f)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe & Ezgif 
