@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [✅] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
 - [✅] **A home feed displaying previously created posts**
 - [✅] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
-- [ ] **Clicking on a post shall direct the user to a new page for the selected post**
+- [✅] **Clicking on a post shall direct the user to a new page for the selected post**
 - [ ] **Users can sort posts by either their created time or upvotes count**
 - [ ] **Users can search for posts by title**
 - [ ] **A separate post page for each created post, where any additional information is shown is linked whenever a user clicks a post**
@@ -57,6 +57,9 @@ Here's a walkthrough of implemented user stories:
 ### Voting
 ![HoopsHub-voting](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/0d31efeb-e434-4edf-8d1c-5aa8856f1ad6)
 
+
+### New Page
+![HoopsHub-newpage-ezgif com-video-to-gif-converter](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/4c60642f-c8d2-4d57-a706-64143d7a8a6d)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
