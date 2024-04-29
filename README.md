@@ -43,7 +43,7 @@ Here's a walkthrough of implemented user stories:
 
 ![HoopsHubDemo2](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/a7f92178-8ef7-4e0a-ba9e-bdb0fc61cbf5)
 
-### Create Form
+### Create Form & Home Feed
 ![HoopsHub-create-form](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/fd245cb9-7a04-4cae-8c05-e0983e626a3c)
 
 ### Edit Form
@@ -54,8 +54,13 @@ Here's a walkthrough of implemented user stories:
 ![HoopsHub-delete-form](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/f18535d5-501f-4b12-9d3e-d1c84002d78f)
 
 
+### Voting
+![HoopsHub-voting](https://github.com/MurtajizMehdi/HoopsHub/assets/90480945/0d31efeb-e434-4edf-8d1c-5aa8856f1ad6)
+
+
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Adobe & Ezgif 
+GIFs created with Adobe & Ezgif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
